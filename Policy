@@ -1,0 +1,10 @@
+This is a small but useful application showing currency rates form USD to EUR, GBP and INR.
+Steps to run and build the application:
+1. Run the app
+2. Input your value for the exchange rate
+3. The rate will be shown.
+4. Save the exchange rate value.
+5. View that rate whenever your want.
+
+The current project is still under development, and the current stage is mainly to test the integrity and logical correctness of the interface.
+If you encounter problems during the test, please contact me.
